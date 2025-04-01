@@ -8,6 +8,6 @@ class SobreMim extends Desenvolvedor {
   curso = "Ciências da Computação";
 }
 class Skills extends Desenvolvedor {
-  linguagens = ["Python, JavaScript, C++"];
+  linguagens = ["Python, JavaScript, Html, Css"];
 }
 ```
