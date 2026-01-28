@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Pinheiro!
 
-**Desenvolvedor Python | Entusiasta de Automação | Estudante de Ciência da Computação na Unifor**
+**Desenvolvedor | Entusiasta de Automação | Estudante de Ciência da Computação na Unifor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pinheiro-9342b6287/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspbs07@gmail.com)
